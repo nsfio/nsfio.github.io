@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-This is an academic-focused CV. If you're considering me for a non-academic position, please click here.
+Under construction.
