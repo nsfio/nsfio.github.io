@@ -19,3 +19,6 @@ main:
 
   # - title: "CV"
   #   url: /cv-json/
+
+  - title: "Data analysis"
+    url: /data-analysis/
